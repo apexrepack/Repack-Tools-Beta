@@ -13,7 +13,7 @@ Compressor Changelog:
 - Compressor v2.1.0.0 Beta
 - Removed All "Compressor.bat" Files.
 - Added New "Compressor.exe" Files.
-- All Changed Compressor Path For E:\ Disk.
+- All Changed Compressor Path For C:\ Disk.
 - Added "Compressor.exe" Icon.
 ****************************************************************************************************************************************************
 Importent Notes:
