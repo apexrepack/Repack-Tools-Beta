@@ -11,8 +11,11 @@ Repack Tools Changelog:
 ****************************************************************************************************************************************************
 Compressor Changelog:
 - Compressor v2.1.0.0 Beta.
+- Removed Date Code Line In ".bat" Files.
+- All Compressor ".bat" Files Name Are Changed.
+- Removed Pecomp0.43 Codes And Files.
 - Compressor Default Path D:\ Disk.
-- Compressor Working Only D:\ Disk Don't Other Drive To Use.
+- Compressor Working Only D:\ Disk Don't Other Drive To Use..
 ****************************************************************************************************************************************************
 Repack Tools Status:
 - 25% Done!
