@@ -12,6 +12,7 @@ Repack Tools Changelog:
 Compressor Changelog:
 - Compressor v2.1.0.0 Beta.
 - Compressor Default Path D:\ Disk.
+- Compressor Working Only D:\ Disk Don't Other Drive To Use.
 ****************************************************************************************************************************************************
 Compressor Status:
 - Beta Compressor Are Ready!
