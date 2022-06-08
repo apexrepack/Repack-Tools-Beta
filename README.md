@@ -11,12 +11,10 @@ Tools Changelog:
 ****************************************************************************************************************************************************
 Compressor Changelog:
 - Compressor v2.1.0.0 Beta
-- Removed All "Compressor.bat" Files.
-- Added New "Compressor.exe" Files.
-- All Changed Compressor Path For C:\ Disk.
-- Added "Compressor.exe" Icon.
 ****************************************************************************************************************************************************
-Importent Notes:
-- Compressor.exe All Files Only Testing Purpose To Use.
+Compressor Status:
+- Beta Compressor Are Ready!
+- Compressor Release Today!
 ****************************************************************************************************************************************************
 Twitter ➡ http://wwww.twitter.com/apexrepack
+****************************************************************************************************************************************************
