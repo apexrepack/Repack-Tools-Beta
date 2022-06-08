@@ -1,5 +1,5 @@
 ****************************************************************************************************************************************************
-Tools Changelog:
+Repack Tools Changelog:
 - Repack Tools v2.1.0.0 Beta
 - New Repack Setup Icon.
 - New Repack Setup Backgroud.
@@ -10,7 +10,8 @@ Tools Changelog:
 - Removed Repack Output Folder "Changelog.bat" Files.
 ****************************************************************************************************************************************************
 Compressor Changelog:
-- Compressor v2.1.0.0 Beta
+- Compressor v2.1.0.0 Beta.
+- Compressor Default Path D:\ Disk.
 ****************************************************************************************************************************************************
 Compressor Status:
 - Beta Compressor Are Ready!
